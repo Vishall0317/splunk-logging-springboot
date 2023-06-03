@@ -1,0 +1,7 @@
+port:  8088
+token name: b6e37296-eb78-4135-ac87-4aacb448ff0c
+source type: log4j
+index: order_api_dev
+source name: http-event-logs
+username: vishal
+password: 123G*****i@
